@@ -4,7 +4,7 @@ Pre-Requisites -- prettytable
 
 run Singly_LinkedList.py and type -h or --help for further Description
 
-LINKED LIST
+[LINKED LIST]
       Usage:
       1)  Add Node in Last           : l+   [int_Variable]
       2)  Add Node in Start          : +l   [int_Variable]
